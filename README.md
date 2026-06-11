@@ -96,7 +96,7 @@ Three machine learning models were implemented and compared in this project. Ran
 ## 🔗 Project Links
 
 * Google Colab Notebook: https://colab.research.google.com/drive/1RWeXgCHhnHo-XKeAVYdbiDjIZkuffJbz?usp=sharing
-* GitHub Repository: (your repo link)
+* GitHub Repository: https://github.com/DEVANG-60/Titanic-ML-Project.git
 
 ---
 
