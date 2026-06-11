@@ -62,13 +62,10 @@ Models were evaluated using:
 
 | Model               | Accuracy | Precision | Recall | F1 Score |
 | ------------------- | -------- | --------- | ------ | -------- |
-| Logistic Regression | XX       | XX        | XX     | XX       |
-| Random Forest       | XX       | XX        | XX     | XX       |
-| KNN                 | XX       | XX        | XX     | XX       |
+| Logistic Regression | 0.810056 | 0.785714  | 0.7432 | 0.763889 |
+| Random Forest       | 0.810056 | 0.777778  | 0.7567 | 0.767123 |
+| KNN                 | 0.703911 | 0.684211  | 0.527  | 0.595420 |
 
-*(Replace XX with your actual results)*
-
----
 
 ## 🏆 Best Model
 
@@ -98,11 +95,11 @@ Three machine learning models were implemented and compared in this project. Ran
 
 ## 🔗 Project Links
 
-* Google Colab Notebook: (paste your link here)
+* Google Colab Notebook: https://colab.research.google.com/drive/1RWeXgCHhnHo-XKeAVYdbiDjIZkuffJbz?usp=sharing
 * GitHub Repository: (your repo link)
 
 ---
 
 ## 👨‍💻 Author
 
-* Your Name
+* Devang Shinde
